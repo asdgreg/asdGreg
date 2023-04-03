@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About Me
-My name is [Your Name] and I have been working as a Software Engineer for the past 5 years. I am passionate about solving complex problems and enjoy researching, experimenting, and providing creative solutions. My areas of expertise include Backend Development and Team Leadership.
+My name is Greg and I have been working as a Software Engineer for the past 5 years. I am passionate about solving complex problems and enjoy researching, experimenting, and providing creative solutions. My areas of expertise include Backend Development and Team Leadership.
 
 Projects
-Microcomponent
+Multi-Component Project Cloud
 I worked on a project that involved deploying solutions to the cloud, improving time responses, costs, scalability, and looking for the best fit of the solutions with cloud tools. We implemented multi-data management and microservice orchestration, providing low-code solutions. Our stack included Cloud Functions, Workflows, PubSub, Cloud Storage, and more. We also used Node.js, TypeScript, Javascript, Graphql, TypeOrm, and other tools to build the project.
 
 Firebase
